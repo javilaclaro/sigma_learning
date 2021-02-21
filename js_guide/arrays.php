@@ -15,4 +15,12 @@ array = array.unshift("element-to-unshift");
   array = array.pop("element-to-remove");
 </code>
 
+<h2>Recorrido de arrays</h2>
+<p>Array filter (search for arrays meeting the established criteria)</p>
+<code>
+  array.filter(function(){
+    return item.value = 100;
+  })
+</code>
+
 <?php include "footer.php"; ?>

@@ -68,4 +68,6 @@
   <ul>
     <li>strpos()   strlen()  </li>
   </ul>
+
+  <?php include "../footer.php"; ?>
   </html>
